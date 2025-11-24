@@ -97,6 +97,12 @@ Detailed documentation is available in the `docs/` directory:
 
 ---
 
+## 🔄 Workflow
+
+![ClipX Workflow](docs/assets/workflow.png)
+
+---
+
 ## 📜 License
 
 Copyright (c) 2025 ClipX Team. All Rights Reserved.
