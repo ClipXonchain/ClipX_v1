@@ -4,7 +4,7 @@
 [![Forks](https://img.shields.io/github/forks/ClipXonchain/ClipX_v1?style=for-the-badge&color=0969da)](https://github.com/ClipXonchain/ClipX_v1/network/members)
 [![Stars](https://img.shields.io/github/stars/ClipXonchain/ClipX_v1?style=for-the-badge&color=0969da)](https://github.com/ClipXonchain/ClipX_v1/stargazers)
 [![Issues](https://img.shields.io/github/issues/ClipXonchain/ClipX_v1?style=for-the-badge&color=b33e3e)](https://github.com/ClipXonchain/ClipX_v1/issues)
-[![License](https://img.shields.io/github/license/ClipXonchain/ClipX_v1?style=for-the-badge&color=2ea44f)](https://github.com/ClipXonchain/ClipX_v1/blob/main/LICENSE)
+
 
 ![ClipX Banner](docs/assets/banner.png)
 
