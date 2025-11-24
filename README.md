@@ -1,5 +1,11 @@
 # ClipX: Tipping at the Speed of Social 🚀
 
+[![Contributors](https://img.shields.io/github/contributors/ClipXonchain/ClipX_v1?style=for-the-badge&color=2ea44f)](https://github.com/ClipXonchain/ClipX_v1/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/ClipXonchain/ClipX_v1?style=for-the-badge&color=0969da)](https://github.com/ClipXonchain/ClipX_v1/network/members)
+[![Stars](https://img.shields.io/github/stars/ClipXonchain/ClipX_v1?style=for-the-badge&color=0969da)](https://github.com/ClipXonchain/ClipX_v1/stargazers)
+[![Issues](https://img.shields.io/github/issues/ClipXonchain/ClipX_v1?style=for-the-badge&color=b33e3e)](https://github.com/ClipXonchain/ClipX_v1/issues)
+[![License](https://img.shields.io/github/license/ClipXonchain/ClipX_v1?style=for-the-badge&color=2ea44f)](https://github.com/ClipXonchain/ClipX_v1/blob/main/LICENSE)
+
 ![ClipX Banner](docs/assets/banner.png)
 
 > **Send Crypto Directly on X (Twitter) with One Click.**
@@ -56,17 +62,6 @@ You can tip *anyone* on X, even if they haven't installed ClipX yet!
 
 ---
 
-
-## 📄 Documentation
-
-Detailed documentation is available in the `docs/` directory:
-
-- [Deployment Guide](docs/DEPLOYMENT.md)
-- [VPS Setup](docs/VPS_SETUP_2024.md)
-- [Chrome Extension Info](docs/CHROME_STORE_JUSTIFICATION.md)
-- [Detailed Setup Instructions](docs/SETUP_INSTRUCTIONS.txt)
-
----
 
 ## 🔄 Workflow
 
