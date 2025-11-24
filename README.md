@@ -56,35 +56,6 @@ You can tip *anyone* on X, even if they haven't installed ClipX yet!
 
 ---
 
-## 📦 Installation
-
-### Prerequisites
-- Node.js (v18+)
-- Python (v3.8+)
-- PostgreSQL
-
-### Setup
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/ClipXonchain/ClipX_v1.git
-    cd ClipX_v1
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Environment Variables**
-    Copy `.env.example` to `.env` and configure your keys (Privy, Database, Twitter API).
-
-4.  **Run Development Server**
-    ```bash
-    npm run dev
-    ```
-
----
 
 ## 📄 Documentation
 
