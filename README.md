@@ -1,6 +1,6 @@
 # ClipX: Tipping at the Speed of Social 🚀
 
-![ClipX Banner](https://via.placeholder.com/1200x300?text=ClipX:+The+Future+of+Social+Tipping)
+![ClipX Banner](docs/assets/banner.png)
 
 > **Send Crypto Directly on X (Twitter) with One Click.**
 
